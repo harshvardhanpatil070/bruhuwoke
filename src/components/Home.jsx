@@ -18,7 +18,7 @@ function Home() {
         <WhyUs />
         <Service />
         <Faqs /> 
-  <Horizontal/>
+
         <CenterCard />
         <BusinessCovered />
       </main>
